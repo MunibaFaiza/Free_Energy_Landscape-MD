@@ -1,0 +1,2 @@
+Minima Point	Time Frames
+[-0.56445 -5.79882  0.     ]	[]

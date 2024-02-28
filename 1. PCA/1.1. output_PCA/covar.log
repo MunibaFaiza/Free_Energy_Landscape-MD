@@ -1,0 +1,20 @@
+Covariance analysis log, written Wed Feb 28 08:44:26 2024
+
+Program: covar
+Working directory: /home/muniba/Desktop/md/FEL
+
+Read 101 frames from md_0_1_noPBC.xtc (time 0 to 1000 ps)
+Read reference structure for fit from md_0_1.gro
+
+Analysis group is 'Protein' (4667 atoms)
+Fit group is 'Protein' (4667 atoms)
+Analysis is non-mass weighted
+Fit is non-mass weighted
+Diagonalized the 14001x14001 covariance matrix
+Trace of the covariance matrix before diagonalizing: 67.876
+Trace of the covariance matrix after diagonalizing: 67.8761
+
+Wrote 100 eigenvalues to eigenvalues.xvg
+Wrote reference structure to eigenvectors.trr
+Wrote average structure to average.pdb and eigenvectors.trr
+Wrote eigenvectors 1 to 100 to eigenvectors.trr
