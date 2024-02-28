@@ -16,4 +16,4 @@ along with other required input files such as the MD trajectory file and example
 Doownload this package and unzip all files. Generate input files as explained in the article. Use the script to generate the FEL and extract time frames. Finally, in the last step, take snapshots of the time frames as shown in the article.
 
 ### How to cite:
-Faiza, M., 2024. VS_Analysis: A Python package to perform post-virtual screening analysis, 10(2): page 8-12. https://bioinformaticsreview.com/20240228/free_energy_landscape-md-python-package-to-create-free-energy-landscape-using-pca-from-gromacs/
+Faiza, M., 2024. Free_Energy_Landscape-MD: Python package to create Free Energy Landscape using PCA from GROMACS., 10(2): page 8-12. https://bioinformaticsreview.com/20240228/free_energy_landscape-md-python-package-to-create-free-energy-landscape-using-pca-from-gromacs/
