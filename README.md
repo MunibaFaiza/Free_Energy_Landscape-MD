@@ -3,7 +3,7 @@
 A Python package to generate Free Energy Landscape (FEL) based on Principal Component Analysis (PCA) of the Molecular Dynamics (MD) trajectory.
 This package provides a 3D FEL plot showing the minima points. It utilizes principal components of the MD trajectory to generate the FEL. Additionally, it offers specific time frames corresponding to the minima regions in the FEL.
 
-Before using the script to generate the FEL, PCA must be performed. The complete process, from performing PCA to extracting the time frames corresponding to the minima regions, is explained in [this article](). Please read this article before proceeding.
+Before using the script to generate the FEL, PCA must be performed. The complete process, from performing PCA to extracting the time frames corresponding to the minima regions, is explained in [this article](https://bioinformaticsreview.com/20240228/free_energy_landscape-md-python-package-to-create-free-energy-landscape-using-pca-from-gromacs/). Please read this article before proceeding.
 
 The package includes two main files:
 
